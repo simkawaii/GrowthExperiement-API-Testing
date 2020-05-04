@@ -1,0 +1,12 @@
+{
+  "base_uri": "http://127.0.0.1:8080/w/",
+  "main_page": "Main_Page",
+  "root_user": {
+    "name": "Admin",
+    "password": "vagrant"
+  },
+  "secret_key": "378a226b9fa0114ca16625dd28358615e1d17552ee47a825ae5405db5d153929",
+  "extra_parameters": {
+    "xdebug_session": "PHPSTORM"
+  }
+}
