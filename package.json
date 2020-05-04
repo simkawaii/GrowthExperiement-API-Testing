@@ -1,0 +1,19 @@
+{
+  "name": "homepage-apitesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run lint && mocha",
+    "lint": "eslint --cache --max-warnings 0 --ext .js ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "api-testing": "^1.0.4",
+    "mocha": "^6.2.0",
+    "eslint": "^5.16.0",
+    "eslint-config-wikimedia": "^0.13.1",
+    "eslint-plugin-jsdoc": "^15.8.0"
+  }
+}
